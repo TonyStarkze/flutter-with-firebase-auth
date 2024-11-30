@@ -2,9 +2,15 @@
 # flutter-with-firebase-auth
 Implementation of Firebase Authentication
 =======
-# flutter_auth_tut
+# flutter_auth
 
-A new Flutter project.
+## Screenshots
+
+<img src="firebase_auth/signup_signin_page.jpg" alt="sign up or sign in" width="300">
+<center>Sign Up</center>
+
+<img src="firebase_auth/profile.jpg" alt="profile screen" width="300">
+<center>Profile</center>
 
 ## Getting Started
 
